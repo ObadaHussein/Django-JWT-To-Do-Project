@@ -71,3 +71,7 @@ venv.bak/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+# Local development files
+db.sqlite3
+task_requests.log
